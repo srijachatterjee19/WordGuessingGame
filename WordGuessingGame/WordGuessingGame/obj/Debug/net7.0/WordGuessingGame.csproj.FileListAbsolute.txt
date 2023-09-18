@@ -1,0 +1,15 @@
+/Users/srijachatterjee/Desktop/PROJECTS/WordGuessingGame/WordGuessingGame/bin/Debug/net7.0/WordGuessingGame
+/Users/srijachatterjee/Desktop/PROJECTS/WordGuessingGame/WordGuessingGame/bin/Debug/net7.0/WordGuessingGame.deps.json
+/Users/srijachatterjee/Desktop/PROJECTS/WordGuessingGame/WordGuessingGame/bin/Debug/net7.0/WordGuessingGame.runtimeconfig.json
+/Users/srijachatterjee/Desktop/PROJECTS/WordGuessingGame/WordGuessingGame/bin/Debug/net7.0/WordGuessingGame.dll
+/Users/srijachatterjee/Desktop/PROJECTS/WordGuessingGame/WordGuessingGame/bin/Debug/net7.0/WordGuessingGame.pdb
+/Users/srijachatterjee/Desktop/PROJECTS/WordGuessingGame/WordGuessingGame/obj/Debug/net7.0/WordGuessingGame.csproj.AssemblyReference.cache
+/Users/srijachatterjee/Desktop/PROJECTS/WordGuessingGame/WordGuessingGame/obj/Debug/net7.0/WordGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srijachatterjee/Desktop/PROJECTS/WordGuessingGame/WordGuessingGame/obj/Debug/net7.0/WordGuessingGame.AssemblyInfoInputs.cache
+/Users/srijachatterjee/Desktop/PROJECTS/WordGuessingGame/WordGuessingGame/obj/Debug/net7.0/WordGuessingGame.AssemblyInfo.cs
+/Users/srijachatterjee/Desktop/PROJECTS/WordGuessingGame/WordGuessingGame/obj/Debug/net7.0/WordGuessingGame.csproj.CoreCompileInputs.cache
+/Users/srijachatterjee/Desktop/PROJECTS/WordGuessingGame/WordGuessingGame/obj/Debug/net7.0/WordGuessingGame.dll
+/Users/srijachatterjee/Desktop/PROJECTS/WordGuessingGame/WordGuessingGame/obj/Debug/net7.0/refint/WordGuessingGame.dll
+/Users/srijachatterjee/Desktop/PROJECTS/WordGuessingGame/WordGuessingGame/obj/Debug/net7.0/WordGuessingGame.pdb
+/Users/srijachatterjee/Desktop/PROJECTS/WordGuessingGame/WordGuessingGame/obj/Debug/net7.0/WordGuessingGame.genruntimeconfig.cache
+/Users/srijachatterjee/Desktop/PROJECTS/WordGuessingGame/WordGuessingGame/obj/Debug/net7.0/ref/WordGuessingGame.dll
