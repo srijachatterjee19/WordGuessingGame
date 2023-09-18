@@ -1,2 +1,3 @@
 # WordGuessingGame
-Artificial Intelligence(2022 MOD004553)
+
+The game was completed as a part of the Artificial Intelligence(MOD004553) module. 
