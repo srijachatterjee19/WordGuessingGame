@@ -1,4 +1,4 @@
-# WordGuessingGame
+# WordGuessingGame 👾
 
 <img width="400" alt="image" src="https://github.com/srijachatterjee19/WordGuessingGame/assets/84346422/1a0adf40-34c9-4079-a72a-b8bb997a155a">
 
